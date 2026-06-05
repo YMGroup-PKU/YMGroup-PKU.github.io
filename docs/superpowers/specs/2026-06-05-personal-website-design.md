@@ -12,9 +12,11 @@ Scope (first release): **three pages + CV download** — About, Publications, Re
 
 ## 2. Decisions (locked)
 
+> **Update 2026-06-06:** Framework switched from al-folio to **academicpages** (Minimal Mistakes based), after the user chose the look of a reference site (https://yzhang951.github.io/, which uses academicpages). Same page scope and privacy boundaries; publications move from a `.bib` file to per-paper Markdown files in `_publications/` grouped by `publication_category`. The al-folio-specific sections below are superseded by the academicpages plan in `docs/superpowers/plans/2026-06-06-personal-website-academicpages.md`.
+
 | Topic | Decision |
 |---|---|
-| Framework | al-folio (Jekyll) |
+| Framework | academicpages (Jekyll / Minimal Mistakes) — switched from al-folio 2026-06-06 |
 | Hosting | GitHub Pages, built by GitHub Actions |
 | Repo name | `YMGroup-PKU.github.io` (user-site) |
 | URL | `https://ymgroup-pku.github.io` (no custom domain for now) |

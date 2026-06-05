@@ -84,11 +84,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   corresponding:
-    title: 'Selected &amp; Corresponding/First-Author Papers'
+    title: 'First- and Corresponding-Author Papers'
   coauthored:
     title: 'Co-authored Papers'
   before:
-    title: 'Publications Before Peking University'
+    title: 'Papers Before Joining Peking University (2020)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

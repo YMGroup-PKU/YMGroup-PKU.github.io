@@ -14,18 +14,25 @@ author_profile: true
 {% endif %}
 
 <div class="publication-list">
-  <ol reversed style="line-height: 1.5;">
-  {% for post in site.publications reversed %}
-    <li style="margin-bottom: 0.8em;">
-      {{ post.citation }}
-      {% if post.paperurl %}
-        {% if post.paperurl contains "arxiv" %}
-          [<a href="{{ post.paperurl }}">arXiv</a>]
-        {% else %}
-          [<a href="{{ post.paperurl }}">DOI</a>]
-        {% endif %}
-      {% endif %}
-    </li>
+  {% for category in site.publication_category %}
+    {% assign catkey = category[0] %}
+    {% assign catposts = site.publications | where: "category", catkey | sort: "date" | reverse %}
+    {% if catposts.size > 0 %}
+      <h2>{{ category[1].title }}</h2>
+      <ol style="line-height: 1.5;">
+      {% for post in catposts %}
+        <li style="margin-bottom: 0.8em;">
+          {{ post.citation }}
+          {% if post.paperurl %}
+            {% if post.paperurl contains "arxiv" %}
+              [<a href="{{ post.paperurl }}">arXiv</a>]
+            {% else %}
+              [<a href="{{ post.paperurl }}">DOI</a>]
+            {% endif %}
+          {% endif %}
+        </li>
+      {% endfor %}
+      </ol>
+    {% endif %}
   {% endfor %}
-  </ol>
 </div>

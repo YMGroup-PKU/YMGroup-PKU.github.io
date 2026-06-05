@@ -5,5 +5,6 @@ category: corresponding
 permalink: /publication/compressible-mixing-model
 date: 2025-12-28
 venue: 'Journal of Fluid Mechanics'
+paperurl: 'https://doi.org/10.1017/jfm.2025.10614'
 citation: 'H. Xie, T. Luo, <b>Y. Zhao</b>*, Y. Zhang*, J. Wang. (2025). "A compressible Reynolds-averaged mixing model considering turbulent composition and heat fluxes." <i>Journal of Fluid Mechanics</i>, 1019, A56.'
 ---

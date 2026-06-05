@@ -5,5 +5,6 @@ category: corresponding
 permalink: /publication/intermittency-transition-mixing
 date: 2025-12-26
 venue: 'Journal of Fluid Mechanics'
+paperurl: 'https://doi.org/10.1017/jfm.2024.1160'
 citation: 'H. Xie, H. Qi, M. Xiao, Y. Zhang*, <b>Y. Zhao</b>*. (2025). "An intermittency-based Reynolds-averaged transition model for mixing flows induced by interfacial instabilities." <i>Journal of Fluid Mechanics</i>, 1002, A31.'
 ---

@@ -5,5 +5,6 @@ category: corresponding
 permalink: /publication/dns-hpt-stage
 date: 2023-12-28
 venue: 'Journal of Turbomachinery'
+paperurl: 'https://doi.org/10.1115/1.4063510'
 citation: 'T. Wang, <b>Y. Zhao</b>*, J. Leggett, R. D. Sandberg. (2023). "Direct numerical simulation of a high-pressure turbine stage: unsteady boundary layer transition and the resulting flow structures." <i>Journal of Turbomachinery</i>, 145(12), 121009.'
 ---

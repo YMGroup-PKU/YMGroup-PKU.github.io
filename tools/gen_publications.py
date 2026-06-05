@@ -207,6 +207,50 @@ PAPERS = [
 ]
 
 
+# DOIs resolved from Crossref (tools/find_dois.py) for entries that had no link.
+# The 4 papers omitted here are either still in press (no DOI yet) or in
+# Chinese-language journals not indexed by Crossref.
+DOIS = {
+    "hierarchical-hairpin-vortices": "10.1103/q3gt-v8jm",
+    "point-particle-dns-overset": "10.1016/j.cpc.2026.110059",
+    "compressible-mixing-model": "10.1017/jfm.2025.10614",
+    "des-interfacial-mixing": "10.1016/j.physd.2025.134892",
+    "intermittency-transition-mixing": "10.1017/jfm.2024.1160",
+    "transformer-inverse-cascade": "10.1016/j.jcp.2024.113475",
+    "evolutionary-neural-networks": "10.1063/5.0203975",
+    "pde-identification-enn": "10.1016/j.taml.2024.100511",
+    "dns-hpt-stage": "10.1115/1.4063510",
+    "kl-mixing-gep": "10.1007/s10409-022-22315-x",
+    "unsteady-hpt-performance": "10.1115/1.4055576",
+    "les-particle-laden-ml": "10.1063/5.0098399",
+    "les-gep-model": "10.1063/5.0076693",
+    "quantum-fluid-vortex": "10.1038/s41467-026-69168-8",
+    "oneshot-transformer-turbine": "10.1016/j.compfluid.2025.106927",
+    "quantum-lattice-boltzmann": "10.1038/s41534-025-01142-6",
+    "quantum-vortex-filaments": "10.1017/jfm.2025.10278",
+    "gradient-gep-closure": "10.1007/s10494-024-00579-7",
+    "lke-generalization": "10.1115/1.4065124",
+    "multicase-cfd-training": "10.2514/1.j062572",
+    "micro-grooves-taylor-couette": "10.1063/5.0145900",
+    "coupled-symbolic-deeplearning": "10.1016/j.ijheatfluidflow.2023.109140",
+    "ml-turbulence-heatflux-review": "10.1016/j.ijheatfluidflow.2022.108983",
+    "multiobjective-cfd-closure": "10.1016/j.jcp.2021.110922",
+    "ml-cfd-lpt-wakemixing": "10.1115/1.4051417",
+    "hpt-vane-large-disturbances": "10.1115/1.4050453",
+    "bypass-transition-pg-curvature": "10.1017/jfm.2020.39",
+    "rans-model-cfd-driven-ml": "10.1016/j.jcp.2020.109413",
+    "entropy-loss-rans-hpt": "10.1115/1.4046531",
+    "scalar-flux-jet-crossflow": "10.1016/j.ijheatmasstransfer.2019.118931",
+    "endwall-lpt-part1": "10.1115/1.4045080",
+    "endwall-lpt-part2": "10.1115/1.4042208",
+    "sinuous-vortex-spots": "10.1103/physrevfluids.3.074701",
+    "vortex-reconnection-transition": "10.1017/jfm.2016.492",
+    "material-surfaces-transition": "10.1017/jfm.2016.152",
+    "shear-improved-smagorinsky": "10.1080/14685248.2015.1043131",
+    "constrained-les-transition": "10.1063/1.4895589",
+}
+
+
 def yaml_sq(value):
     """Single-quote a YAML scalar, escaping embedded single quotes."""
     return "'" + value.replace("'", "''") + "'"
@@ -225,6 +269,8 @@ def main():
     day_counter = {}
     written = 0
     for slug, year, category, authors, title, venue, volpart, extra, url in PAPERS:
+        if not url and slug in DOIS:
+            url = "https://doi.org/" + DOIS[slug]
         key = (category, year)
         day = day_counter.get(key, 28)
         day_counter[key] = day - 1

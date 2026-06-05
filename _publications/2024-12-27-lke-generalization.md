@@ -5,5 +5,6 @@ category: coauthored
 permalink: /publication/lke-generalization
 date: 2024-12-27
 venue: 'Journal of Turbomachinery'
+paperurl: 'https://doi.org/10.1115/1.4065124'
 citation: 'Y. Fang*, <b>Y. Zhao</b>, H. D. Akolekar, A. S. H. Ooi, R. D. Sandberg, R. Pacciani, M. Marconcini. (2024). "A data-driven approach for generalizing the laminar kinetic energy model for separation and bypass transition in low- and high-pressure turbines." <i>Journal of Turbomachinery</i>, 146(9), 091005.'
 ---

@@ -78,8 +78,14 @@ Scope (first release): **three pages + CV download** — About, Publications, Re
 - Teaching, talks, service as dedicated pages (selected items may appear inline on About; full lists deferred)
 - Funding/grant amounts
 
-## 8. Open follow-ups (later phases)
+## 8. Social links
+
+- Google Scholar: `https://scholar.google.com/citations?user=XS5AREoAAAAJ&hl=en` (scholar id `XS5AREoAAAAJ`).
+- ORCID: omitted for now (add later if desired).
+- Email: `yaomin.zhao@pku.edu.cn`.
+
+## 9. Open follow-ups (later phases)
 
 - Add News timeline once content cadence is decided.
 - Optionally add Group page when ready to publish roster.
-- Confirm ORCID id and exact Google Scholar URL to wire social links.
+- Add ORCID id when available.

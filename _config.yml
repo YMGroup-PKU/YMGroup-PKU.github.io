@@ -87,8 +87,6 @@ publication_category:
     title: 'First- and Corresponding-Author Papers'
   coauthored:
     title: 'Co-authored Papers'
-  before:
-    title: 'Papers Before Joining Peking University (2020)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

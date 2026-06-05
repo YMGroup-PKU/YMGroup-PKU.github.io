@@ -1,7 +1,7 @@
 ---
 title: "Vortex reconnection in the late transition in channel flow"
 collection: publications
-category: before
+category: corresponding
 permalink: /publication/vortex-reconnection-transition
 date: 2016-12-28
 venue: 'Journal of Fluid Mechanics'

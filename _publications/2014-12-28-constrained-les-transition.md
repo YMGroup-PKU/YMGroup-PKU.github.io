@@ -1,7 +1,7 @@
 ---
 title: "Constrained large-eddy simulation of laminar-turbulent transition in channel flow"
 collection: publications
-category: before
+category: corresponding
 permalink: /publication/constrained-les-transition
 date: 2014-12-28
 venue: 'Physics of Fluids'

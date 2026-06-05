@@ -1,7 +1,7 @@
 ---
 title: "RANS turbulence model development using CFD-driven machine learning"
 collection: publications
-category: before
+category: corresponding
 permalink: /publication/rans-model-cfd-driven-ml
 date: 2020-12-27
 venue: 'Journal of Computational Physics'

@@ -1,7 +1,7 @@
 ---
 title: "Integration of machine learning and computational fluid dynamics to develop turbulence models for improved low-pressure turbine wake mixing prediction"
 collection: publications
-category: before
+category: coauthored
 permalink: /publication/ml-cfd-lpt-wakemixing
 date: 2021-12-28
 venue: 'Journal of Turbomachinery'

@@ -1,7 +1,7 @@
 ---
 title: "Evolution of material surfaces in the temporal transition in channel flow"
 collection: publications
-category: before
+category: corresponding
 permalink: /publication/material-surfaces-transition
 date: 2016-12-27
 venue: 'Journal of Fluid Mechanics'

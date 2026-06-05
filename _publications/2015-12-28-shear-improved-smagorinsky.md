@@ -1,7 +1,7 @@
 ---
 title: "Assessment of the shear-improved Smagorinsky model in laminar-turbulent transitional channel flow"
 collection: publications
-category: before
+category: coauthored
 permalink: /publication/shear-improved-smagorinsky
 date: 2015-12-28
 venue: 'Journal of Turbulence'

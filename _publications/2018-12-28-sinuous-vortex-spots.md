@@ -1,7 +1,7 @@
 ---
 title: "Sinuous distortion of vortex surfaces in the lateral growth of turbulent spots"
 collection: publications
-category: before
+category: corresponding
 permalink: /publication/sinuous-vortex-spots
 date: 2018-12-28
 venue: 'Physical Review Fluids'

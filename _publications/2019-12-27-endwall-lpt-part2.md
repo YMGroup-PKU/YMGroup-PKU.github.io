@@ -1,7 +1,7 @@
 ---
 title: "Large-eddy simulation and RANS analysis of the end-wall flow in a linear low-pressure turbine cascade, part II: loss generation"
 collection: publications
-category: before
+category: coauthored
 permalink: /publication/endwall-lpt-part2
 date: 2019-12-27
 venue: 'Journal of Turbomachinery'

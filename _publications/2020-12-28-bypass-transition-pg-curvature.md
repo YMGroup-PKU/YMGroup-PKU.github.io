@@ -1,7 +1,7 @@
 ---
 title: "Bypass transition in boundary layers subject to strong pressure gradient and curvature effects"
 collection: publications
-category: before
+category: corresponding
 permalink: /publication/bypass-transition-pg-curvature
 date: 2020-12-28
 venue: 'Journal of Fluid Mechanics'

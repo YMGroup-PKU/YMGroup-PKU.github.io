@@ -5,34 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p>45 journal papers published or in press, with over 1,400 citations. An asterisk (*) denotes the corresponding author; my own name is shown in <b>bold</b>.</p>
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+<p>(* corresponding author) 45 journal papers, with over 1,400 citations.</p>
+
+{% if site.author.googlescholar %}
+  <p>You can also find my articles on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.</p>
 {% endif %}
 
-
-
+<div class="publication-list">
+  <ol reversed style="line-height: 1.5;">
+  {% for post in site.publications reversed %}
+    <li style="margin-bottom: 0.8em;">
+      {{ post.citation }}
+      {% if post.paperurl %}
+        {% if post.paperurl contains "arxiv" %}
+          [<a href="{{ post.paperurl }}">arXiv</a>]
+        {% else %}
+          [<a href="{{ post.paperurl }}">DOI</a>]
+        {% endif %}
+      {% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+</div>

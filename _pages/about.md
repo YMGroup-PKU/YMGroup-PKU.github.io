@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__content p { text-align: justify; }
+</style>
+
 I am an Assistant Professor at the [School of Mechanics and Engineering Science](http://www.coe.pku.edu.cn/) and the Center for Applied Physics and Technology, Peking University, and a member of the State Key Laboratory for Turbulence and Complex Systems.
 
 My research centers on **high-fidelity numerical simulation of turbulence** and **machine-learning / data-driven turbulence modeling**. My group studies wall-bounded turbulence and laminar–turbulent transition, turbomachinery and aero-engine internal flows, and interfacial instability and mixing, leveraging GPU heterogeneous computing and modern machine learning to push the fidelity, efficiency, and generality of turbulence simulation and modeling.

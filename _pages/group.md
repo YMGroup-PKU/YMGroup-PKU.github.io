@@ -5,7 +5,7 @@ permalink: /group/
 author_profile: true
 ---
 
-Our group works on high-fidelity simulation and machine-learning modeling of turbulence, in the School of Mechanics and Engineering Science and the Center for Applied Physics and Technology at Peking University. Prospective students and postdocs interested in turbulence simulation, data-driven modeling, and scientific computing are welcome to [get in touch](mailto:yaomin.zhao@pku.edu.cn).
+Our group works on high-fidelity simulation and machine-learning modeling of turbulence, in the School of Mechanics and Engineering Science (and also the Center for Applied Physics and Technology) at Peking University. Prospective students and postdocs interested in turbulence simulation, data-driven modeling, and scientific computing are welcome to [get in touch](mailto:yaomin.zhao@pku.edu.cn).
 
 ## PhD Students
 

@@ -10,5 +10,8 @@ main:
   - title: "Group"
     url: /group/
 
+  - title: "Service"
+    url: /service/
+
   - title: "CV"
     url: /files/cv.pdf

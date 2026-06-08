@@ -33,8 +33,9 @@ Our group works on high-fidelity simulation and machine-learning modeling of tur
 - Yuchen Zhang (张宇辰, 2022–2024) — now a PhD student at Stanford University
 - Xiangchen Feng (封项晨, 2022–2024) — now a PhD student at Peking University
 - Ruolan Zhu (祝若岚, 2023–2025) — now a PhD student at Peking University
-- Xijun Lin (林希骏, 2025– )
-- Jiayu Yuan (袁嘉昱, 2026– )
+- Xiang Li (李想, 2025– )
+- Bin Lu (陆彬, 2025– )
+- Weike Mao (毛维科, 2025– )
 
 ## Alumni
 
@@ -51,6 +52,8 @@ Our group works on high-fidelity simulation and machine-learning modeling of tur
 - 2025 Peking University Presidential Doctoral Scholarship — Hansong Xie
 - 2025 Peking University Academic Innovation Award — Hansong Xie
 - 2026 Peking University Outstanding Graduate — Hansong Xie
+- 2026 First Academic Talents, School of Mechanics and Engineering Science — Taiyang Wang
+- 2026 Peking University College of Engineering Outstanding Undergraduate Thesis — Xiang Li, Bin Lu
 
 ## Group photos
 

@@ -16,4 +16,4 @@ author_profile: true
 
 ## Reviewer for
 
-*Journal of Fluid Mechanics*, *Journal of Computational Physics*, *Communications Engineering*, *AIAA Journal*, *Physics of Fluids*, *Computers & Fluids*, *European Journal of Mechanics / B Fluids*, *Ocean Engineering*, *International Journal of Heat and Fluid Flow*, *Flow, Turbulence & Combustion*, *Acta Mechanica Sinica*, *Theoretical and Applied Mechanics Letters*, *Chinese Journal of Theoretical and Applied Mechanics*, *Acta Aerodynamica Sinica*, *Physics of Gases*, *Journal of Aerospace Power*.
+*Journal of Fluid Mechanics*, *Journal of Computational Physics*, *Nature Machine Intelligence*, *Communications Engineering*, *AIAA Journal*, *Physics of Fluids*, *Computers & Fluids*, *European Journal of Mechanics / B Fluids*, *Ocean Engineering*, *International Journal of Heat and Fluid Flow*, *Flow, Turbulence & Combustion*, *Acta Mechanica Sinica*, *Theoretical and Applied Mechanics Letters*, *Chinese Journal of Theoretical and Applied Mechanics*, *Acta Aerodynamica Sinica*, *Physics of Gases*, *Journal of Aerospace Power*.

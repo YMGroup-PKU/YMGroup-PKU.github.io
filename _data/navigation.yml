@@ -10,6 +10,9 @@ main:
   - title: "Group"
     url: /group/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Service"
     url: /service/
 

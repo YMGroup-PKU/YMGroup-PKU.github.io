@@ -16,20 +16,41 @@ Our group works on high-fidelity simulation and machine-learning modeling of tur
 - Yuchen Ge (葛宇辰)
 - Haoyu Ji (姬浩宇)
 - Chenqi Wei (魏琛奇)
+- Chi Zhang (张弛)
 - Xiangchen Feng (封项晨)
 - Chengrui Sun (孙承睿)
-- Chi Zhang (张弛)
-- Ruolan Zhu (祝若岚)
 - Zhijun Li (李智俊)
+- Ruolan Zhu (祝若岚)
 
 ## Master Students
 
 - Zhijie Zheng (郑志杰)
 
+## Undergraduate Students
+
+- Haoyu Ji (姬浩宇, 2021–2023) — now a PhD student at Peking University
+- Chenqi Wei (魏琛奇, 2021–2023) — now a PhD student at Peking University
+- Yuchen Zhang (张宇辰, 2022–2024) — now a PhD student at Stanford University
+- Xiangchen Feng (封项晨, 2022–2024) — now a PhD student at Peking University
+- Ruolan Zhu (祝若岚, 2023–2025) — now a PhD student at Peking University
+- Xijun Lin (林希骏, 2025– )
+- Jiayu Yuan (袁嘉昱, 2026– )
+
 ## Alumni
 
-- Haochen Li (李昊辰) — PhD; now at the China Academy of Space Technology.
-- Yinhang Luo (罗引航) — MS; continuing for a PhD at Peking University.
+- Haochen Li (李昊辰) — PhD (2020–2024); now at the China Academy of Space Technology
+- Yinhang Luo (罗引航) — MS; continuing for a PhD at Peking University
+
+## Student Awards
+
+- 2021, 2022 Peking University Presidential Doctoral Scholarship — Taiyang Wang
+- 2023 Peking University Excellent Student — Haochen Li
+- 2024 Excellent Presentation Award, National Mechanics Doctoral Forum — Hansong Xie
+- 2025 National Scholarship — Hansong Xie
+- 2025 Peking University Excellent Student — Hansong Xie
+- 2025 Peking University Presidential Doctoral Scholarship — Hansong Xie
+- 2025 Peking University Academic Innovation Award — Hansong Xie
+- 2026 Peking University Outstanding Graduate — Hansong Xie
 
 ## Group photos
 

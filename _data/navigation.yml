@@ -13,5 +13,8 @@ main:
   - title: "Service"
     url: /service/
 
+  - title: "Links"
+    url: /links/
+
   - title: "CV"
     url: /files/cv.pdf

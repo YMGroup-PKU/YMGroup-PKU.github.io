@@ -12,7 +12,7 @@ author_profile: true
 - **Since 2025:** Editorial Board Member, *Theoretical and Applied Mechanics Letters* (TAML)
 - **Since 2025:** Deputy Director, First Youth Editorial Board, *Physics of Gases*
 - **Since 2023:** Youth Editorial Board Member, *Acta Aerodynamica Sinica* and *Advances in Aerodynamics*
-- **Organizer** of the "Youth Academic Salon on Fluid Mechanics" — a long-running online seminar series with 48 sessions to date, featuring a total of 192 invited speakers and averaging approximately 150 online participants per session
+- **Organizer** of the "Youth Academic Salon on Fluid Mechanics" — a long-running online seminar series (2020-2023) with 48 sessions, featuring a total of 192 invited speakers and averaging approximately 150 online participants per session
 
 ## Reviewer for
 

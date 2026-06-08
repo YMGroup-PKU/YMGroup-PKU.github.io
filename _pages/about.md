@@ -24,4 +24,4 @@ Selected honors
 - Young Elite Scientists Sponsorship Program, China Association for Science and Technology (2021)
 - NSFC Excellent Young Scientists Fund (Overseas) (2022)
 
-I lead an active research group of graduate students working on turbulence simulation and modeling. You can find my full record in my [CV](/files/cv.pdf) and my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=XS5AREoAAAAJ&hl=en).
+I lead an active research group of graduate students working on turbulence simulation and modeling. You can find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=XS5AREoAAAAJ&hl=en).

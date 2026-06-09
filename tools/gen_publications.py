@@ -31,7 +31,7 @@ PAPERS = [
     ("progressive-moe-rans", 2026, "corresponding",
      "H. Ji, Y. Luo, H. Zhou, <b>Y. Zhao</b>*",
      "Progressive mixture-of-experts with autoencoder routing for continual RANS turbulence modelling",
-     "Journal of Fluid Mechanics", "", ", in press", "https://arxiv.org/abs/2601.09305"),
+     "Journal of Fluid Mechanics", ", 1036, A54", "", "https://doi.org/10.1017/jfm.2026.11654"),
     ("roughness-lpt-transition", 2026, "corresponding",
      "X. Zhu, Y. Ge, <b>Y. Zhao</b>*, Z. Xiao, R. D. Sandberg",
      "Boundary layer transition induced by surface roughness distributed over a low-pressure turbine blade",

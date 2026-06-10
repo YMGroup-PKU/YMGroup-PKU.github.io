@@ -9,7 +9,7 @@ author_profile: true
 .page__content p { text-align: justify; }
 </style>
 
-Turbulence sets performance limits across aerospace and energy systems, yet it remains hard to predict because it couples a wide range of scales and resists reduced description. Our research advances turbulence prediction on two complementary fronts — developing **interpretable, generalizable data-driven models**, and performing **high-fidelity simulations (DNS and LES)** that resolve the controlling physics of complex flows. We use simulation to expose flow mechanisms and data-driven methods to turn them into models that generalize across regimes, and we apply both to national needs in aero-engines and inertial confinement fusion.
+Turbulence sets performance limits across aerospace and energy systems, yet it remains hard to predict because it couples a wide range of scales and resists reduced description. Our research advances turbulence prediction on two complementary fronts — developing **interpretable, generalizable data-driven models**, and performing **high-fidelity simulations (DNS and LES)** that resolve the controlling physics of complex flows. We use simulation to expose flow mechanisms and data-driven methods to turn them into models that generalize across regimes, and we apply both to aero-engines and inertial confinement fusion.
 
 ## Interpretable and generalizable turbulence modeling
 

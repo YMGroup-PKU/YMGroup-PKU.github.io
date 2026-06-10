@@ -46,7 +46,7 @@ PAPERS = [
      "Acta Mechanica Sinica", "", ", in press", ""),
     ("four-equation-roughness", 2026, "corresponding",
      "Y. Ge, X. Zhu, Y. Fang, <b>Y. Zhao</b>*",
-     "A machine-learning-enhanced four-equation model for predicting roughness-induced transition",
+     "Machine-learning-enhanced four-equation model for predicting roughness-induced transition",
      "AIAA Journal", "", "", "https://doi.org/10.2514/1.J066541"),
     ("point-particle-dns-overset", 2026, "corresponding",
      "T. Wang, B. Meng, B. Tian, <b>Y. Zhao</b>*",

@@ -27,7 +27,7 @@ PAPERS = [
     ("asymmetric-particle-transport", 2026, "corresponding",
      "T. Wang, C. Zhang, <b>Y. Zhao</b>*",
      "Asymmetric particle transport in turbulent flows within concentric annular ducts",
-     "Journal of Fluid Mechanics", "", ", in press", "https://arxiv.org/abs/2605.26981"),
+     "Journal of Fluid Mechanics", ", 1037, A18", "", "https://doi.org/10.1017/jfm.2026.11697"),
     ("progressive-moe-rans", 2026, "corresponding",
      "H. Ji, Y. Luo, H. Zhou, <b>Y. Zhao</b>*",
      "Progressive mixture-of-experts with autoencoder routing for continual RANS turbulence modelling",

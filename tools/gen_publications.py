@@ -35,7 +35,7 @@ PAPERS = [
     ("roughness-lpt-transition", 2026, "corresponding",
      "X. Zhu, Y. Ge, <b>Y. Zhao</b>*, Z. Xiao, R. D. Sandberg",
      "Boundary layer transition induced by surface roughness distributed over a low-pressure turbine blade",
-     "Journal of Turbomachinery", ", TURBO-26-1003", "", "https://doi.org/10.1115/1.4072013"),
+     "Journal of Turbomachinery", ", 148(8), 081014", "", "https://doi.org/10.1115/1.4072013"),
     ("hierarchical-hairpin-vortices", 2026, "corresponding",
      "W. Shen, Y. Ge, Z. Han, <b>Y. Zhao</b>*, Y. Yang*",
      "Constructing wall turbulence using hierarchical hairpin vortices",

@@ -17,6 +17,6 @@ My research centers on **high-fidelity numerical simulation of turbulence** and 
 
 Education and experience
 ======
-I received my B.S. in Physics (Yuanpei College) and my Ph.D. in Fluid Mechanics from Peking University, advised by Prof. Shiyi Chen and Prof. Yue Yang. Before joining Peking University in 2020 as an assistant professor, I was a Postdoctoral Research Fellow in the Department of Mechanical Engineering at the University of Melbourne, working with Prof. Richard D. Sandberg.
+I received my B.S. in Physics (Yuanpei College) and my Ph.D. in Fluid Mechanics from Peking University. Before joining Peking University in 2020 as an assistant professor, I was a Postdoctoral Research Fellow in the Department of Mechanical Engineering at the University of Melbourne.
 
 I lead an active research group of graduate students working on turbulence simulation and modeling. You can find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=XS5AREoAAAAJ&hl=en). You can also find my group page in Chinese — [Yaomin Zhao Research Group (Chinese)](http://www2.coe.pku.edu.cn/subpaget.asp?id=703).

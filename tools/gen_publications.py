@@ -23,7 +23,7 @@ PAPERS = [
     ("lowwave-annular-ducts", 2026, "corresponding",
      "<b>Y. Zhao</b>, T. Wang, B. Lyu*",
      "Low-wavenumber wall pressure fluctuations in turbulent flows within concentric annular ducts",
-     "Journal of Fluid Mechanics", "", ", in press", "https://arxiv.org/abs/2601.04590"),
+     "Journal of Fluid Mechanics", ", 1037, A56", "", "https://doi.org/10.1017/jfm.2026.11723"),
     ("asymmetric-particle-transport", 2026, "corresponding",
      "T. Wang, C. Zhang, <b>Y. Zhao</b>*",
      "Asymmetric particle transport in turbulent flows within concentric annular ducts",
